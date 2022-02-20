@@ -13,6 +13,7 @@ namespace ApiHelpDents.Application.Mappings
 
             //Responses
             CreateMap<Administrador, AdminResponse>()
+            .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.IdAdmin))
             .ForMember(dest => dest.Nombres, opt => opt.MapFrom(src => src.Nombres))
             .ForMember(dest => dest.Apellidos, opt => opt.MapFrom(src => src.Apellidos))
             .ForMember(dest => dest.Correo, opt => opt.MapFrom(src => src.Correo))

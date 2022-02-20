@@ -52,7 +52,6 @@ C:\home\5C UTM\HelpDents\ApiHelpDents\obj\Debug\net5.0\ApiHelpDents.csproj.CoreC
 C:\home\5C UTM\HelpDents\ApiHelpDents\obj\Debug\net5.0\ApiHelpDents.MvcApplicationPartsAssemblyInfo.cs
 C:\home\5C UTM\HelpDents\ApiHelpDents\obj\Debug\net5.0\ApiHelpDents.MvcApplicationPartsAssemblyInfo.cache
 C:\home\5C UTM\HelpDents\ApiHelpDents\obj\Debug\net5.0\staticwebassets\ApiHelpDents.StaticWebAssets.Manifest.cache
-C:\home\5C UTM\HelpDents\ApiHelpDents\obj\Debug\net5.0\staticwebassets\ApiHelpDents.StaticWebAssets.xml
 C:\home\5C UTM\HelpDents\ApiHelpDents\obj\Debug\net5.0\scopedcss\bundle\ApiHelpDents.styles.css
 C:\home\5C UTM\HelpDents\ApiHelpDents\obj\Debug\net5.0\ApiHelpDents.RazorTargetAssemblyInfo.cache
 C:\home\5C UTM\HelpDents\ApiHelpDents\obj\Debug\net5.0\ApiHelpDents.csproj.CopyComplete
@@ -71,3 +70,4 @@ C:\home\5C UTM\HelpDents\ApiHelpDents\bin\Debug\net5.0\JSONS\EspecialidadCreate.
 C:\home\5C UTM\HelpDents\ApiHelpDents\bin\Debug\net5.0\JSONS\TurnoCreate.json
 C:\home\5C UTM\HelpDents\ApiHelpDents\bin\Debug\net5.0\JSONS\UsuarioCreate.json
 C:\home\5C UTM\HelpDents\ApiHelpDents\bin\Debug\net5.0\JSONS\UsuarioUpdate.json
+C:\home\5C UTM\HelpDents\ApiHelpDents\bin\Debug\net5.0\JSONS\AsesorFilters.json

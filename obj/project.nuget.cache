@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xM0QwYRaF3yE1/q1gCR3mkBX2W/TpJL1b3hI/8YA4As6srYMDKEZGGOTubvsNdUyG0dHWu3jjBAkozWWJqm2Qg==",
+  "dgSpecHash": "cVeKCvyn6QSlLixjHIqc7Ipm6AMxqeqBJwHSUxr3oHNrW/BSevIBQ99KtqGTE+O9wEpQW+mpAtmGx2vge4m60w==",
   "success": true,
   "projectFilePath": "C:\\home\\5C UTM\\HelpDents\\ApiHelpDents\\ApiHelpDents.csproj",
   "expectedPackageFiles": [
@@ -113,7 +113,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\jona_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }
